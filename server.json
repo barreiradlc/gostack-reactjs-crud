@@ -23,6 +23,29 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "food": {
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.saipos.com%2Fsushi-delivery-como-montar%2F&psig=AOvVaw2g0WuzteWVDuweqIYsTIJq&ust=1605497751106000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC05K3Pg-0CFQAAAAAdAAAAABAD",
+        "name": "Sushi",
+        "price": "8,90",
+        "description": "Sushi delicioso 3 pessoas"
+      },
+      "id": 4
+    },
+    {
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.saipos.com%2Fsushi-delivery-como-montar%2F&psig=AOvVaw2g0WuzteWVDuweqIYsTIJq&ust=1605497751106000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC05K3Pg-0CFQAAAAAdAAAAABAD",
+      "name": "Sushi",
+      "price": "9.45",
+      "description": "Sushi para 1 pessoa",
+      "id": 5
+    },
+    {
+      "image": "https://blog.saipos.com/wp-content/uploads/2018/11/Sushi-delivery-como-montar-SAIPOS-Sistema-para-Restaurantes.jpg",
+      "name": "Sushi",
+      "price": "10.50",
+      "description": "algo a dizer",
+      "id": 6
     }
   ]
 }
